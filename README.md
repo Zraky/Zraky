@@ -1,3 +1,11 @@
+  Z    z     Z    z
+   z      Z      Z
+     z       z
+  z       Z
+ᓚᘏᗢ     ᓕᘏᗢ
+    ᓚᘏᗣ      ᗢᘏᓗ
+        ᘓᘏᗢ
+
 # Hello 
 I'm Zraky, a computer science student living in france
 I like discover new concept
